@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    list-style: none;
+    margin: 0;
+}
+
+h1{
+    color: #fea116;
+}
+li:hover{
+    color:#fea116;
+}
+span{
+    color: #fea116;
+}
