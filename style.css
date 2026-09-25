@@ -16,15 +16,15 @@ body {
 
 
 span {
-    color: #ff6347;
+   color: #fea116;
 }
 
 li:hover {
-    color: #ff6347;
+    color: #fea116;
 }
 
 .rotate {
-    animation: rotatetion 10s linear infinite;
+    animation: rotatetion 15s linear infinite;
 }
 
 @keyframes rotatetion {
